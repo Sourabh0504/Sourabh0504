@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourabh0504
-- 👀 I’m interested in Frontend & Python
+- 👀 I’m interested in Python, Data & GenAI
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 reach me at https://www.linkedin.com/in/sourabhchaudhari/
