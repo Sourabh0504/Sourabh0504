@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sourabh0504
 - 👀 I’m interested in Python, Data & GenAI
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Java Projects
+- 💞️ I’m looking to collaborate on Agentic Era Projects
 - 📫 reach me at https://www.linkedin.com/in/sourabhchaudhari/
 
 <!---
