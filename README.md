@@ -1,30 +1,42 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="center">
 
-<img src="https://www.sourabhchaudhari.com/assets/hero-cartoon-CERXfLEq.png" width="320" alt="Sourabh Chaudhari"/>
-
-# Hi, I'm Sourabh Chaudhari 👋
+# Hi, I'm <span style="color:#2563eb">Sourabh Chaudhari</span> 👋
 
 ### AI Engineer • GenAI Developer • Data Intelligence • Full-Stack Developer
 
-Building intelligent systems powered by **LLMs**, **Agentic AI**, **RAG**, and **Data Engineering**.
+Building intelligent systems powered by **LLMs, Agentic AI, RAG, Data Engineering, and Enterprise AI**.
 
 Currently building **Saarthi** — an Enterprise AI Marketing Intelligence Platform.
 
-<p>
-  <a href="https://www.sourabhchaudhari.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.sourabhchaudhari.com">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.sourabhchaudhari.com">
+<img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/sourabhchaudhari">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="images/hero.png" width="380"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
