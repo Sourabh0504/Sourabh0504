@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://www.sourabhchaudhari.com/assets/hero-cartoon-CERXfLEq.png" width="320" alt="Sourabh Chaudhari"/>
@@ -197,4 +196,3 @@ Email
 ⭐ If you find my work interesting, feel free to explore my repositories and connect with me!
 
 </div>
-```
