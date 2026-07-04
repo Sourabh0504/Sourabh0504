@@ -1,34 +1,77 @@
-<p align="center">
-  <img src="https://www.sourabhchaudhari.com/assets/hero-cartoon-CERXfLEq.png" width="320" alt="Sourabh Chaudhari"/>
-</p>
+<!-- ========================== HERO SECTION ========================== -->
 
-<h1 align="center">Hi 👋, I'm Sourabh Chaudhari</h1>
+<table>
+<tr>
 
-<h3 align="center">
-AI Engineer • GenAI Developer • Data Intelligence • Full Stack Developer
+<td width="60%" valign="middle">
+
+<h1>
+Hi, I'm <br>
+
+# <span style="color:#2563EB;">Sourabh</span> Chaudhari 👋
+
+</h1>
+
+<h3>
+
+AI Engineer • GenAI Developer • Data Intelligence • Full-Stack Developer
+
 </h3>
 
-<p align="center">
-Building intelligent systems powered by <strong>LLMs</strong>, <strong>Agentic AI</strong>, <strong>RAG</strong>, and <strong>Data Engineering</strong>.
+<p>
+
+Building intelligent systems powered by <strong>LLMs</strong>,
+<strong>Agentic AI</strong>,
+<strong>RAG</strong>,
+and <strong>Data Engineering</strong>.
+
 </p>
 
-<p align="center">
-Currently building <strong>Saarthi</strong> — An Enterprise AI Marketing Intelligence Platform.
+<p>
+
+Currently building <strong>Saarthi</strong> —
+an Enterprise AI Marketing Intelligence Platform.
+
 </p>
 
-<p align="center">
-  <a href="https://www.sourabhchaudhari.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.sourabhchaudhari.com" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.sourabhchaudhari.com" target="_blank">
+<img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/sourabhchaudhari" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="40%" align="center">
+
+<img
+src="assets/hero.png"
+alt="Sourabh"
+width="380"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
