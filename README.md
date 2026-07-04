@@ -61,7 +61,7 @@ an Enterprise AI Marketing Intelligence Platform.
 <td width="40%" align="center">
 
 <img
-src="assets/hero.png"
+src="https://www.sourabhchaudhari.com/assets/hero-cartoon-CERXfLEq.png"
 alt="Sourabh"
 width="380"
 />
