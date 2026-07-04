@@ -1,134 +1,200 @@
-# Hi there, I'm Sourabh Chaudhari 👋
+```markdown
+<div align="center">
 
-### AI Engineer | GenAI Developer | Data & Marketing Intelligence
+<img src="https://www.sourabhchaudhari.com/assets/hero-cartoon-CERXfLEq.png" width="320" alt="Sourabh Chaudhari"/>
 
-I'm passionate about building AI systems that solve real business problems. My work sits at the intersection of **Artificial Intelligence, Large Language Models (LLMs), Data Engineering, Analytics, and Full-Stack Development**.
+# Hi, I'm Sourabh Chaudhari 👋
 
-Currently, I'm building **Saarthi**—an enterprise AI Marketing Intelligence Platform that combines Business Intelligence, autonomous AI agents, Retrieval-Augmented Generation (RAG), and conversational analytics to help organizations make data-driven decisions.
+### AI Engineer • GenAI Developer • Data Intelligence • Full-Stack Developer
+
+Building intelligent systems powered by **LLMs**, **Agentic AI**, **RAG**, and **Data Engineering**.
+
+Currently building **Saarthi** — an Enterprise AI Marketing Intelligence Platform.
+
+<p>
+  <a href="https://www.sourabhchaudhari.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🤖 AI Engineer focused on LLMs, Agentic AI, and RAG systems
-* 📊 Building enterprise analytics platforms powered by AI
-* 🧠 Interested in Multi-Agent Systems, Knowledge Graphs, and AI Infrastructure
-* 📈 Experienced in marketing analytics and business intelligence
-* ☁️ Exploring scalable AI deployments on Google Cloud Platform
-* 🌱 Always learning and experimenting with new AI technologies
+- 🤖 AI Engineer passionate about solving real-world business problems
+- 🧠 Building enterprise AI platforms using LLMs and autonomous AI agents
+- 📊 Experienced in Data Analytics, Marketing Intelligence, and Business Intelligence
+- ☁️ Exploring scalable AI deployments on Google Cloud Platform
+- 🚀 Focused on building production-ready AI applications
+- 🌱 Always learning new AI technologies and system architectures
 
 ---
 
-## 🛠️ Tech Stack
+# 🏗️ Currently Building
+
+## Saarthi
+
+An Enterprise AI Marketing Intelligence Platform that combines:
+
+- 🤖 Conversational AI
+- 📊 Business Intelligence
+- 🧠 Multi-Agent AI Systems
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📈 Forecasting
+- 📑 Automated Reporting
+- 📉 Root Cause Analysis
+- 🎯 Marketing Analytics
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,sql"/>
+</p>
 
 ### AI & Machine Learning
 
-* Large Language Models (LLMs)
-* Agentic AI
-* Retrieval-Augmented Generation (RAG)
-* LangGraph
-* LangChain
-* MCP
-* Prompt Engineering
-* Vector Databases
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+- Large Language Models (LLMs)
+- Agentic AI
+- LangGraph
+- LangChain
+- MCP
+- RAG
+- Prompt Engineering
+- Vector Databases
 
 ### Backend
 
-* FastAPI
-* Flask
-* REST APIs
-* SQLAlchemy
-* PostgreSQL
-* Redis
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+</p>
 
 ### Frontend
 
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* Next.js
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
+</p>
+
+- BigQuery
+- Vector Databases
 
 ### Cloud & DevOps
 
-* Google Cloud Platform
-* Docker
-* Kubernetes
-* GitHub Actions
-
-### Data & Analytics
-
-* BigQuery
-* Power BI
-* Google Analytics
-* Marketing Analytics
-* Business Intelligence
-* Data Visualization
-
----
-
-## 🚧 Current Focus
-
-### Saarthi
-
-An AI-powered Marketing Intelligence Platform designed for enterprises and agencies that brings together:
-
-* AI-powered marketing analytics
-* Natural language data exploration
-* Root Cause Analysis
-* Automated reporting
-* Forecasting
-* AI agents
-* Knowledge management
-
----
-
-## 📚 Areas of Interest
-
-* Artificial Intelligence
-* Agentic AI
-* Large Language Models
-* Multi-Agent Systems
-* Data Engineering
-* Marketing Intelligence
-* Business Analytics
-* Cloud Architecture
-* AI Infrastructure
-* Enterprise Software
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,git"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 📚 Areas of Interest
 
-* 💼 LinkedIn: https://linkedin.com/in/sourabhchaudhari
-* 🌐 Portfolio: https://www.sourabhchaudhari.com
-* 📫 Reach me through GitHub or LinkedIn
+- Artificial Intelligence
+- Large Language Models
+- Agentic AI
+- Multi-Agent Systems
+- Data Engineering
+- Marketing Intelligence
+- Business Intelligence
+- Cloud Computing
+- Distributed Systems
+- Enterprise Software
 
 ---
 
-> *"Building AI that transforms data into decisions."*
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠️ Tools I Use
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,figma,linux"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.sourabhchaudhari.com">
+Portfolio
+</a>
+
+•
+
+<a href="YOUR_LINKEDIN_URL">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building AI that transforms data into decisions."
+
+⭐ If you find my work interesting, feel free to explore my repositories and connect with me!
+
+</div>
+```
